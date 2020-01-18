@@ -8,7 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>FThe Realest Cool headingggg</h3>
+          <h3>FThe Rehaledvsst Cool headingggg</h3>
           <p>
             <strong>
               Edit this page in<code>/pages/about.vue</code>to fit your needs.
